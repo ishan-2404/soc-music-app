@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "759189200337",
+    "firebase_url": "https://signin-authentication.firebaseio.com",
+    "project_id": "signin-authentication",
+    "storage_bucket": "signin-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759189200337:android:57ebf7eedf65791deb14f0",
+        "android_client_info": {
+          "package_name": "com.example.sighnin_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759189200337-cjjj3t9a41njii3m9l45j3nn6ee8smo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxCJKA9cRbwCq5g8ydJPSmoopFMtuP6RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759189200337-cjjj3t9a41njii3m9l45j3nn6ee8smo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
