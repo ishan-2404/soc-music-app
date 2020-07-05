@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:759189200337:android:57ebf7eedf65791deb14f0",
         "android_client_info": {
-          "package_name": "com.example.sighnin_authentication"
+          "package_name": "com.example.sighin_authentication"
         }
       },
       "oauth_client": [
